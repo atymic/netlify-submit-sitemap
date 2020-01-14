@@ -1,0 +1,11 @@
+{
+  "name": "netlify-submit-sitemap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:atymic/netlify-submit-sitemap.git",
+  "author": "atymic <atymicq@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
+}
